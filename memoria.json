@@ -1,0 +1,32 @@
+[
+    {
+        "tipo": "funcion",
+        "contenido": "np.sin(np.sqrt(x**2 + y**2))",
+        "fecha": "2025-11-09T02:39:57.611929"
+    },
+    {
+        "tipo": "funcion",
+        "contenido": "np.sin(np.sqrt(x**2 + y**2))",
+        "fecha": "2025-11-09T02:45:05.721333"
+    },
+    {
+        "tipo": "funcion",
+        "contenido": "np.sin(np.sqrt(x**2 + y**2))",
+        "fecha": "2025-11-09T02:45:21.262655"
+    },
+    {
+        "tipo": "funcion",
+        "contenido": "np.sin(np.sqrt(x**2 + y**2))",
+        "fecha": "2025-11-09T14:00:14.624510"
+    },
+    {
+        "tipo": "funcion",
+        "contenido": "np.sin(np.sqrt(x**2 + y**2))",
+        "fecha": "2025-11-09T14:36:55.210220"
+    },
+    {
+        "tipo": "funcion",
+        "contenido": "np.sin(np.sqrt(x**2 + y**2))",
+        "fecha": "2025-11-09T14:36:59.535586"
+    }
+]

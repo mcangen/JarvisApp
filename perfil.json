@@ -1,0 +1,10 @@
+{
+    "nombre": "Jose",
+    "tono": "amigable",
+    "voz": "neutra",
+    "colores": "Turbo",
+    "preferencias": {
+        "detalles": true,
+        "saludo_inicial": true
+    }
+}

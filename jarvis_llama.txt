@@ -1,0 +1,12 @@
+import subprocess
+
+class JarvisLlama:
+    def __init__(self, model_name="llama3"):
+        self.model_name = model_name
+        print("🦙 Llama 3 listo a través de Ollama.")
+
+    def responder(self, texto):
+        prompt = f"Eres Jarvis, un asistente experto y conversacional en ingeniería y física.\nUsuario: {texto}\nJarvis:"
+        result = subprocess.run(["ollama", "run", self.model_name, prompt],
+                                stdout=subprocess.PIPE)
+        return result.stdout.decode().strip()
