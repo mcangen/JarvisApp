@@ -63,18 +63,17 @@ Permite comparaciones gráficas.
 
 # 🖥️ Requisitos del sistema
 
-✓ Windows 10 / 11
-✓ Python 3.10 (OBLIGATORIO)
+✓ Windows 10 (OBLIGATORIO)
+✓ Python 3.11 (OBLIGATORIO)
 ✓ Cámara web (para gestos)
 ✓ Micrófono (para voz)
 
-⚠️ Python 3.11 o 3.12 NO funcionan debido a incompatibilidades con PyAudio, MediaPipe y PyTorch.
 
 # 📦 Instalación
-## 1️⃣ Instalar Python 3.10
+## 1️⃣ Instalar Python 3.11
 
 Descargar:
-📥 https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
+📥 https://www.python.org/ftp/python/3.11/python-3.11-amd64.exe
 
 Marcar Add to PATH.
 
